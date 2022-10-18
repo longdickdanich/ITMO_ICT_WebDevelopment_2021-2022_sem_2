@@ -1,0 +1,27 @@
+site_name: ITMO_ICT_WebDevelopment_2021-2022_sem_2
+nav:
+  - Home: index.md
+  - Api: endpoints/endpoints.md
+  - Semester 2:
+      - Lab 1:
+          - '1.1 Containerization': semester2/lab1/1.1_containerization.md
+          - '1.2 Orchestration': semester2/lab1/1.2_orchestration.md
+      - Lab 2:
+          - '2.1.1 Manual filters': semester2/lab2/2.1.1_manual_filters.md
+          - '2.1.2 Auto filters': semester2/lab2/2.1.2_auto_filters.md
+          - '2.2.1 Pagination': semester2/lab2/2.2.1_pagination.md
+          - '2.2.2 Custom pagination': semester2/lab2/2.2.2_custom_pagination.md
+          - '2.3.1 File upload & validation': semester2/lab2/2.3.1_file_upload_validation.md
+          - '2.4.1 Signals': semester2/lab2/2.4.1_signals.md
+      - Lab 3:
+          - '3.1.1 Tests': semester2/lab3/3.1.1_tests.md
+      - Lab 4:
+            - '4.1.1 Filters interface': semester2/lab4/4.1.1_filters_interface.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    accent: light green
+    primary: green
+
